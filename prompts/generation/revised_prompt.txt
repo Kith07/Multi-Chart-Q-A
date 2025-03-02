@@ -1,1 +1,7 @@
-# INCLUDE: Add a 2nd prompt to make the model revise its own answer prior to doing the evaluation/feedback loop
+Thanks a lot. Could you please review your question and refine it? 
+
+Please make sure that the new answer better implements relevant info from both charts and captions and produces a sophisticated inference-based question.
+
+Again, please keep the answer concise and to the point.
+
+Thank you very much!

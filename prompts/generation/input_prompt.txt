@@ -1,17 +1,16 @@
-You are an expert in {DOMAIN} tasked with creating insightful inference questions that require synthesizing information from multiple data visualizations. 
+You are an expert in {DOMAIN} tasked with creating insightful inference questions that require leveraging information from multiple data visualizations. 
 
-Your task is to analyze {K} {DOMAIN} visualizations and their captions, then create an inference-based question that requires synthesizing information from both charts to answer correctly.
+Your task is to analyze {K} {DOMAIN} visualizations and their captions, then create an inference-based question that requires combining knowledge from both charts to answer correctly.
 
-EXAMPLE OF GOOD QUESTIONS:
+EXAMPLE OF GOOD QUESTION:
 Example 1: 
-Image: {IMAGE_EX1}
-Caption: {CAPTION_EX1}
-Question: {QUESTION_EX1}
+Image1: {IMAGE_EX1}
+Image2: {IMAGE_EX2}
 
-Example 2:
-Image: {IMAGE_EX2}
-Caption: {CAPTION_EX2}
-Question: {QUESTION_EX2}
+Caption1: {CAPTION_EX1}
+Caption2: {CAPTION_EX2}
+
+Question: {QUESTION_EX1}
 
 Here are the charts you'll be focusing on:
 
@@ -25,8 +24,7 @@ Caption: {CAPTION2}
 
 INSTRUCTIONS:
 1. Study both charts and their captions carefully
-2. Identify key relationships, trends, or patterns across both visualizations
-3. Create a thought-provoking question that requires synthesizing information from both charts to answer
-4. Your question should be specific, clear, and directly reference elements from both visualizations
+2. Identify key relationships, trends, or correlations across both visualizations
+3. Create a sophisticated question that requires using information from both charts to answer
 
-Now create your combined-inference question based on the charts above:
+Now create your combined-inference question based on the charts above
