@@ -1,0 +1,13 @@
+EVALUATION RUBRIC (0-7 points):
+
+Information Retrieval (0-4 points)
+- Chart 1 Info: 2/2 (Pulls relevant info from chart/caption)
+- Chart 2 Info: 2/2 (Pulls relevant info from chart/caption)
+
+Synthesis Quality (0-2 points)
+- Score: 2/2 (Creates sophisticated connection between both charts)
+
+Question Quality (0-1 points)
+- Clarity/Confidence: 1/1 (Question is clear and could be answered with sufficient data with sufficient confidence)
+
+TOTAL SCORE: 7/7
