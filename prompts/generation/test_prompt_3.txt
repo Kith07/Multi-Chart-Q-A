@@ -1,0 +1,22 @@
+You are an expert in {DOMAIN} tasked with creating insightful inference questions that require leveraging information from multiple data visualizations. 
+
+Your task is to analyze {K} {DOMAIN} captions, then create an inference-based question that requires combining knowledge from both to answer correctly.
+
+EXAMPLE OF GOOD QUESTION:
+Question: {QUESTION_EX1}
+
+Here are the charts you'll be focusing on:
+
+CHART 1:
+Caption: {CAPTION1}
+
+CHART 2: 
+Caption: {CAPTION2}
+
+CHART 3: 
+Caption: {CAPTION3}
+
+INSTRUCTIONS:
+1. Study all captions carefully
+2. Identify key relationships, trends, or correlations across all charts
+3. Create a sophisticated question that requires using information from all captions to answer

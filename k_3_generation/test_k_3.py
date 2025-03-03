@@ -89,7 +89,7 @@ im_2 = encode_image(IMAGE2)
 im_3 = encode_image(IMAGE3)
 '''
 
-with open("prompts/generation/test_prompt.txt", "r") as f:
+with open("prompts/generation/test_prompt_3.txt", "r") as f:
     prompt_ex = f.read()
 
 prompt1 = prompt_ex.format(

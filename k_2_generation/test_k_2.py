@@ -81,7 +81,7 @@ prompt1 = prompt_ex.format(
     CAPTION2=CAPTION2
 )
 '''
-with open("prompts/generation/test_prompt.txt", "r") as f:
+with open("prompts/generation/test_prompt_2.txt", "r") as f:
     prompt_ex = f.read()
 
 prompt1 = prompt_ex.format(
