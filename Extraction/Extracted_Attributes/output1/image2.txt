@@ -1,0 +1,8 @@
+ATTRIBUTES:
+- Year (independent variable)
+- Activity (dependent variable)
+
+EXPLANATION:
+- **Year**: This attribute represents the time component on the horizontal axis of the graph, which spans from the year 1860 to the year 2100. It is used as the independent variable to show the progression of time in relation to the changes in the activity level.
+  
+- **Activity**: Denoted in "ppm" (parts per million) on the vertical axis, this attribute measures a specific quantity, likely related to an environmental or atmospheric parameter (e.g., atmospheric gas concentrations like CO2 or CH4, based on the domain context of climate science). The activity level is the dependent variable as it changes over the years depicted by the timeline. The graph uses a line plot to depict the trend of activity levels with fluctuations indicated, and a shaded area that might represent the range of variability or an averaged trend.

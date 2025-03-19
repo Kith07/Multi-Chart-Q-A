@@ -1,0 +1,13 @@
+You're an expert in the following domains: {DOMAIN}.
+
+Given a list of attributes/variables extracted from scientific charts/plots pertaining to the domains of your expertise, come up with an inference-based question that leverages information from all sets of charts that would otherwise be impossible with information from only a subset of the given attributes/variables.
+
+INSTRUCTIONS:
+1. Study all attributes/variables carefully
+2. Identify key relationships, trends, or correlations across both charts based on their attributes
+3. Create a sophisticated question that requires using information from both captions to answer
+
+Give me your response in the following format:
+"QUESTION: (Provide your response)"
+
+Here's the set of attributes and variables:

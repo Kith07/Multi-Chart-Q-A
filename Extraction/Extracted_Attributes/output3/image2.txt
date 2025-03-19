@@ -1,0 +1,23 @@
+ATTRIBUTES:
+- Year (Independent Variable)
+- Temperature Change (°F) (Dependent Variable)
+- Proxy-based records (Dependent Variable)
+- Thermometer-based records (Dependent Variable)
+- Uncertainty (Dependent Variable)
+- Medieval Warm Period (Categorical Variable)
+- Little Ice Age (Categorical Variable)
+
+EXPLANATION:
+- **Year**: This variable on the x-axis represents the timeline from the year 300 to around the year 2000. It is the independent variable as it does not depend on the other variables but is used to measure changes over time.
+
+- **Temperature Change (°F)**: Shown on the y-axis, this variable represents the change in Earth's surface temperature relative to pre-industrial levels. It is a dependent variable as its values depend on factors and measurements gathered across various years.
+
+- **Proxy-based records**: This represents historical temperature data reconstructed from natural recorders of climate variability, such as tree rings, ice cores, and sediment layers. The black line on the chart indicates temperature changes inferred from these proxies over most of the graph.
+
+- **Thermometer-based records**: This line, shown in red, represents temperature readings directly measured using thermometers. It is visible in the most recent segment of the graph, indicating more direct and recent measurements of temperature.
+
+- **Uncertainty**: The shaded area in grey represents the uncertainty or error margin associated with the proxy-based temperature reconstructions. It indicates the range within which the true values might exist, reflecting the limitations and variability of historical data sources.
+
+- **Medieval Warm Period**: This is a historical period marked between approximately 900 to 1300 (highlighted in red at the base of the graph), known for unusually warm temperatures in some regions of the planet. This period is a categorical variable used to denote a significant era within the timeline of the chart.
+
+- **Little Ice Age**: This period, highlighted in blue at the bottom of the graph between approximately 1300 and 1850, is known for a significant cooling. This era is another categorical variable that marks a distinct phase in climatic history on the graph.

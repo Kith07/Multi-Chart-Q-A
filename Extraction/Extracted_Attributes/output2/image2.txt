@@ -1,0 +1,14 @@
+ATTRIBUTES:
+- Energy Source Types (Independent Variable)
+- Energy Consumption in Exajoules (EJ) (Dependent Variable)
+- Time (2020 and 2100) (Independent Variable)
+- Scenario Type (B and S for each Energy Source) (Independent Variable)
+
+EXPLANATION:
+- **Energy Source Types**: This consists of different types of energy sources such as coal, gas, oil, nuclear, and biomass. Each energy source is further divided into two scenarios, labeled as 'B' and 'S'.
+  
+- **Energy Consumption in Exajoules (EJ)**: This attribute denotes the amount of energy consumed and is expressed in Exajoules (EJ). The box plots illustrate the statistical range (including median, quartiles, and possible outliers) of energy consumption projections for each energy source type across two different time periods.
+  
+- **Time**: The charts are divided into two panels indicating two separate time snapshots – 2030 and 2100. This helps in analyzing how energy consumption projections vary over time.
+  
+- **Scenario Type (B and S for each Energy Source)**: Each energy source type (coal, gas, oil, nuclear, and biomass) is analyzed under two different scenarios, labeled as 'B' and 'S'. These scenarios likely represent different assumptions or conditions under which the energy future is modeled (the specific nature of these scenarios is not described in the image but could represent "baseline" and "sustainable" or similar contrasts).

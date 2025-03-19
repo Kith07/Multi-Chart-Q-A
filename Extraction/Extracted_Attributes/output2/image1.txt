@@ -1,0 +1,25 @@
+**ATTRIBUTES:**
+1. Time (Ma) - Independent Variable
+2. Atmospheric CO2 (ppm) - Dependent Variable (Top Chart)
+3. Continental Glaciation (Paleolatitude) - Dependent Variable (Top Chart)
+4. Deep Ocean Temperature (C) - Dependent Variable (Middle Chart)
+5. δ18O (‰) - Dependent Variable (Middle Chart)
+6. Atmospheric CO2 from Various Proxies (ppm) - Dependent Variable (Bottom Chart)
+7. Geochronology of Ice Sheets - Dependent Variable (Middle Chart)
+
+**EXPLANATION:**
+1. **Time (Ma):** This independent variable represents the geological time in millions of years ago (Ma). It is used as a reference to observe how other variables, like atmospheric CO2 levels, ocean temperatures, and glaciation, have changed over time.
+
+2. **Atmospheric CO2 (ppm):** Depicted in the top and bottom charts, this dependent variable measures the concentration of carbon dioxide in the atmosphere in parts per million (ppm). It highlights changes in Earth’s atmospheric composition which can influence climate, demonstrated via multiple sources like paleosols, phytoplankton, stomata data, and boron.
+
+3. **Continental Glaciation (Paleolatitude):** Shown in the top chart, this variable indicates the extent of glaciation at different latitudes over geological times. Higher bars represent greater glaciation, and this information is crucial for understanding the relationship between temperature, CO2 levels, and the Ice Ages.
+
+4. **Deep Ocean Temperature (C):** The middle chart shows deep ocean temperatures over time, measured in degrees Celsius. This dependent variable helps understand historical climate patterns and supplementing surface temperature data.
+
+5. **δ18O (‰):** Also provided in the middle chart, this variable measures the ratio of isotopes of oxygen in marine sediments, which is a proxy for ice volume and ocean temperature. A higher δ18O suggests cooler global temperatures and more ice.
+
+6. **Atmospheric CO2 from Various Proxies (ppm):** The bottom chart clusters different CO2 estimation methods from proxies such as stomata, pedogenic carbonate, boron, and phytoplankton. Each color represents a different study or method, illustrating the variations and uncertainties in historical CO2 reconstructions.
+
+7. **Geochronology of Ice Sheets:** Indicated on the middle chart with annotations like "East Antarctic Ice Sheet" showing the timing of formation and melting of major ice sheets. This variable provides insights into ice age cycles and their synchronization with global CO2 levels and temperature.
+
+These attributes collectively provide insights into Earth's climatic dynamics, changes in atmospheric conditions, oceanographic temperatures, and glaciation through geological timescales, helping scientists understand past climates in context with shifts in atmospheric CO2 levels and more.

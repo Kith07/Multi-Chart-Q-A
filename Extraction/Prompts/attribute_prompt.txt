@@ -1,0 +1,11 @@
+You're now an expert in deriving attribute and variable names and information from scientific charts and plots in the following domains: {DOMAINS}.
+
+Your task is to extract all of the relevant attributes and variables from a given chart/visualization.
+
+Please provide a list of all the independent/dependent attributes and variables you can idenitfy alongside their relative meaning in the context of the image.
+
+The format of the output should resemble the following:
+
+ATTRIBUTES: (List only attributes in a list and whether they're the independent/dependent variable)
+
+EXPLANATION: (List each attribute with their explanation/meaning in the context of the chart)

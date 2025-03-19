@@ -1,0 +1,29 @@
+ATTRIBUTES:
+- Global mean surface temperature change (Dependent Variable)
+- Confidence level for transition (Independent Variable)
+- Reason for Concern (RFC) Categories (Independent Variable)
+- Index Level of Additional Risk (Independent Variable)
+- Color Coding for Severity (Dependent Variable)
+
+EXPLANATION:
+- **Global mean surface temperature change**: This attribute represents the temperature changes from 2006 to 2015 relative to pre-industrial levels, measured in degrees Celsius. This is shown in colored bars varying in height according to temperature change across different RFCs.
+
+- **Confidence level for transition**: Denotes the level of scientific confidence in the risk transitions presented in the chart, ranging from low (L), medium (M), high (H), to very high (VH). These labels appear within each colored bar, providing a qualitative measure of certainty regarding the risks assessed.
+
+- **Reason for Concern (RFC) Categories**: These are five distinct categories used to classify climate-related concerns:
+  - **RFC1: Unique and threatened systems**
+  - **RFC2: Extreme weather events**
+  - **RFC3: Distribution of impacts**
+  - **RFC4: Global aggregate impacts**
+  - **RFC5: Large-scale singular events**
+  Each category assesses different aspects of risks and impacts associated with climate change.
+
+- **Index Level of Additional Risk due to Climate Change**: Displayed on the right side of the chart, this index uses colors to indicate levels of additional risk, from undetectable to very high. It represents a qualitative assessment of additional climate change-induced risks.
+
+- **Color Coding for Severity**: The severity of impacts associated with each RFC is depicted using colors:
+  - **Purple**: Very high risk, indicating severe impacts and the persistence of climate-related hazards.
+  - **Red**: High risk, associated with severe and widespread impacts.
+  - **Yellow**: Moderate risk, indicating detectable impacts with at least medium confidence.
+  - **White**: Undetectable risk, where impacts are not detectable and cannot be attributed to climate change.
+
+This chart provides a visualization of potential climate risks by categorizing their severity and the certainty of their assessment across various climate-sensitive domains.

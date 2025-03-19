@@ -1,0 +1,6 @@
+Given a set of strings of attributes/variables derived from a set of scientific charts/plots from the domains of {DOMAIN}, give me a score quantifying their semantic similarity.
+
+The answer should begin with "ANSWER:", followed by the actual score denoting the semantic similarity between the given set of attributes/variables.
+
+If possible, also provide an explanation of how you determined the score. Here are the set of attributes/variables:
+

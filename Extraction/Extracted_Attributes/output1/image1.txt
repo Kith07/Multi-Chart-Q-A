@@ -1,0 +1,9 @@
+ATTRIBUTES:
+1. Year (Independent Variable)
+2. Atlantic Meridional Overturning Circulation (MOC) at 30°N in Sverdrups (Sv) (Dependent Variable)
+3. Different climate models (Identifier Variable - Independent in context usage)
+
+EXPLANATION:
+- **Year:** The horizontal axis represents the year, ranging from 1900 to 2200, providing a temporal scale for the measurements and projections depicted in the chart.
+- **Atlantic Meridional Overturning Circulation (MOC) at 30°N in Sverdrups (Sv):** This attribute is plotted on the vertical axis and indicates the strength of the Atlantic MOC measured in Sverdrups, where 1 Sv equals 1 million cubic meters per second. This measure of ocean current represents a significant component in understanding heat and salt transfer within the Atlantic ocean, impacting climate and weather patterns.
+- **Different climate models:** The various lines (with different colors) represent outputs from distinct climate models, as mentioned in the legend on the right side of the chart. Each model potentially uses different initial conditions, parameters, or numerical methods to simulate past and future behavior of the Atlantic MOC. The presence of multiple models allows for comparisons and better understanding of uncertainty or variability in model projections regarding the Atlantic MOC’s behavior over time. These model names include BCCR-BCM2.0, CGCM3.1-T47, CGCM3.1-T63, and others. The grey line labeled 'Observations' represents actual historical observational data.

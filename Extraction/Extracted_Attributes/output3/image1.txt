@@ -1,0 +1,19 @@
+ATTRIBUTES:
+1. Global mean warming (°C) - Independent Variable
+2. Probability Ratio (PR) of heavy precipitation events - Dependent Variable
+3. Exceedance percentile (99th and 99.9th percentile) - Attributes of Dependent Variable
+4. Event Probability (percentage) - Independent Variable
+5. RX1day - Specification of Event Analysis
+
+EXPLANATION:
+1. **Global mean warming (°C)**: This represents the increase in global mean temperature compared to a baseline (usually pre-industrial levels). This is the independent variable in panel a, and is used to show how changes in global temperatures can impact heavy precipitation events.
+
+2. **Probability Ratio (PR) of heavy precipitation events**: This ratio indicates how much more likely heavy precipitation events become with increased global warming. It serves as the dependent variable in both panels a and b of the chart. The PR values greater than 1 indicate an increase in the likelihood of heavy precipitation events relative to a baseline climate condition.
+
+3. **Exceedance percentile (99th and 99.9th percentile)**: These lines in panel a categorize heavy precipitation events by intensity thresholds. The 99th percentile includes very extreme precipitation events, while the 99.9th percentile includes the most extreme events, representing a higher threshold.
+
+4. **Event Probability (percentage)**: In panel b, the x-axis shows the probability of heavy precipitation events occurring, which is expressed as a percentage. Lower percentages indicate rarer events. This variable is independent and is used to analyze how the intensity of extreme precipitation events varies with different frequencies of occurrence.
+
+5. **RX1day**: This term typically refers to the maximum amount of precipitation received in a single day, analyzed over a specified period. It is used as a metric for assessing heavy precipitation in studies related to climate and hydrology. In this chart, it seems to provide a context or focus for the types of events being analyzed particularly in relation to different global warming thresholds indicated in panel b.
+
+This visualization collectively helps to understand the relationship between global warming and the probability/intensity of extreme precipitation events, vital for climate impact assessment and adaptation planning.

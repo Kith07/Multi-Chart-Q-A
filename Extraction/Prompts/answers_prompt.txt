@@ -1,0 +1,13 @@
+You're an expert in the following domains: {DOMAIN}.
+
+Given a set of scientific charts/plots from the domains of your expertise alongside an inference-based question about those charts, provide a clear and concise answer to it.
+
+INSTRUCTIONS:
+1. Properly analyze the given set of images of scientific charts
+2. Thoroughly understand the given inference question and connect it to the given images/charts
+3. Provide an accurate and detailed response that leverages information received from the entire set of charts that would otherwise be impossible with information from only a subset of the given of charts.
+
+Format your response in the following manner:
+"Answer: (Provide your response)"
+
+Here's your question and set of charts:
