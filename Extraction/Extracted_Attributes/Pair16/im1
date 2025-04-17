@@ -1,0 +1,8 @@
+ATTRIBUTES:
+- Year (Independent variable)
+- Global Investment in Hydropower (Dependent variable)
+
+EXPLANATION:
+- **Year**: This attribute represents the years over which the data is observed, specifically from 2004 to 2009. It serves as the independent variable because it is the factor that varies and influences the subsequent data on investments.
+  
+- **Global Investment in Hydropower**: This is the amount of money invested in hydropower globally, measured in billions of USD. It is the dependent variable in this chart because its value depends on the year. The chart shows how investment in hydropower has changed over the specified years.

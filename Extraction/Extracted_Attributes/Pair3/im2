@@ -1,0 +1,17 @@
+ATTRIBUTES:
+- GHG Emissions Reductions (Independent Variable)
+- Welfare Variation (Dependent Variable, represented in Black)
+- Private Households' Consumption (Dependent Variable, represented in Red)
+- GDP Variation (Dependent Variable, represented in Blue)
+- Country/Region Indicator (Categorical Variable)
+
+EXPLANATION:
+- **GHG Emissions Reductions**: This attribute is plotted on the horizontal axis and measures the percentage reduction in greenhouse gas emissions. It indicates the magnitude of environmental efforts or policies adopted by various countries or regions to reduce emissions.
+
+- **Welfare Variation**: Represented by black color in the plot, this variable is plotted on the vertical axis and indicates the percentage change in welfare, which might include factors like health, economic stability, and overall living conditions as a result of GHG emissions reductions.
+
+- **Private Households' Consumption**: Indicated by the red color on the plot, this variable represents the change in consumption patterns or levels by private households in response to GHG reduction strategies. This could reflect shifts in energy use, goods consumption, or other economic behaviors impacted by environmental policies.
+
+- **GDP Variation**: Shown in blue on the plot, this variable denotes the variation in Gross Domestic Product, reflecting economic growth or contraction that correlates with changes in GHG emissions. This can be a measure of the economic impact of environmental policies on the national or regional economies.
+
+- **Country/Region Indicator**: The symbols on the plot (e.g., "B", "Den", "Ger") correlate with specific countries or regions (Belgium, Denmark, Germany, etc.), helping to contextualize the data points in terms of geographical and possibly policy differences. Each data point's location on the plot reflects that particular country or region's performance or response along the axes of GHG reduction, welfare change, household consumption, and GDP variation.

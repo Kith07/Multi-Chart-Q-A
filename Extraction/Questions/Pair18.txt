@@ -1,0 +1,9 @@
+QUESTION 1: How do emission reduction strategies such as Fuel Switching and Scrubbing correlate with the trends observed in Heat Wave Magnitude Index (Day) over the same time periods (2000-2020), and what specific scenario (e.g., SRES A2) has this correlation been most evident in?
+
+QUESTION 2: Given the projected increase in Global CO2 Emissions under the Baseline scenario from 2000 to 2100, how might this influence the frequency of Warm Spells (Days) as observed in the first half of the 21st century, and what implications does this have for climatic adaptation strategies in temperate regions?
+
+QUESTION 3: Analyzing the relationship between Demand Reduction strategies and the observed changes in Cold Spells (Days) from 2000 to 2020, can we deduce the effectiveness of these strategies in mitigating extreme cold weather events in historically cold-prone areas?
+
+QUESTION 4: Considering the projected trajectories of CO2 emissions under various scenarios including B2 550 and A1-FI, and correlating these with climatic data on Warm and Cold Spells, which scenario shows the most promising alignment with managing the balance between economic growth and climatic stability through to 2050?
+
+QUESTION 5: How have trends in Heat Wave Magnitude Index (Day) from 1900 to 2020 been potentially influenced by systemic changes in global energy policies and CO2 emissions, particularly looking at phases of significant changes in global policies such as the Kyoto Protocol and Paris Agreement periods?

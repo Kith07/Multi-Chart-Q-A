@@ -1,0 +1,17 @@
+ATTRIBUTES:
+1. Mass of sulphate aerosols (µg/m³) - Independent Variable
+2. Cloud droplet number concentration (CDNC) (1/cc) - Dependent Variable
+3. Environment (Land/Ocean) - Categorical Independent Variable
+4. Wind speed (w=10cm/s, w=1m/s) - Categorical Independent Variable
+5. Model Type (B+L, PROG, Jones) - Categorical Independent Variable
+
+EXPLANATION:
+1. **Mass of sulphate aerosols (µg/m³)**: This attribute on the horizontal axis represents the concentration of sulphate aerosols in micrograms per cubic meter. It serves as the independent variable in the chart, used to explore how varying levels of air pollution (via sulphate aerosols) influence the formation of cloud droplets.
+
+2. **Cloud droplet number concentration (CDNC) (1/cc)**: Plotted on the vertical axis, this represents the concentration of cloud droplets per cubic centimeter. It's the dependent variable, indicating how many cloud droplets are present per unit of air as influenced by the mass of sulphate aerosols and other conditions modeled in the scenarios.
+
+3. **Environment (Land/Ocean)**: This categorical independent variable distinguishes between measurements taken over land and ocean. It appears to affect the cloud droplet number concentration, as the lines corresponding to oceanic conditions are generally higher than those of land environments in the chart.
+
+4. **Wind speed (w=10cm/s, w=1m/s)**: Different wind speeds (10 cm/s and 1 m/s) are modeled to assess their impact on cloud droplet formation. This factor influences the turbulent mixing and the dispersion of aerosols, affecting the CDNC.
+
+5. **Model Type (B+L, PROG, Jones)**: The chart includes different models (e.g., B+L, PROG, and a model denoted as Jones) to predict the impact of sulphate aerosols on cloud droplet concentration. Each line using a distinct model suggests varying underlying assumptions or algorithms, impacting their predictions about CDNC.

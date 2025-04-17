@@ -1,0 +1,9 @@
+QUESTION 1: How might gender-based differences in life expectancy trends in Norway from 1990-2013 correlate with observed seasonal temperature changes in the Arctic region over the same period? For instance, could higher temperature increases in specific months have an impact on health that might be reflected differently across genders?
+
+QUESTION 2: Given the observed interannual variability in precipitation in the Arctic as per the shaded areas of confidence, what potential impacts could these changes have on life expectancy in Norway, particularly focusing on years with extreme variations? Can strategies adapted to mitigate the effects of climate on health be identified from these trends?
+
+QUESTION 3: Analyzing the life expectancy for males and females in Norway over the period 1990 to 2013, can we infer any patterns that might relate to specific months where unusual temperature changes in the Arctic are observed? Is there a significant divergence in life expectancy trends corresponding to anomalies in temperature change during harsh winter or summer months?
+
+QUESTION 4: Considering the precipitation and temperature changes in the Arctic region, as highlighted by the shaded confidence intervals indicating variability, how can healthcare policies in Norway be adapted to better address gender-specific life expectancy disparities? How can these policies account for the environmental stressors indicated by the seasonal climate changes?
+
+QUESTION 5: What is the correlation between significant climatic events depicted by drastic changes in precipitation or temperature in the Arctic, and the inflection points in life expectancy trends among males and females in Norway during the same years? How can these data points assist in predictive health models or preventive health strategies? 

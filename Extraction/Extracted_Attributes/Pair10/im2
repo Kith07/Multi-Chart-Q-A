@@ -1,0 +1,19 @@
+ATTRIBUTES:
+- Cumulative population in millions (Independent Variable)
+- t CO2-eq/cap (Dependent Variable)
+- Cumulative GDP in billion US$ (PPP 2000) (Independent Variable)
+- kg CO2-eq/US$ GDP (Dependent Variable)
+- Regional groupings (Categorical Variable)
+
+EXPLANATION:
+1. **Cumulative Population in Millions**: In the first chart (a), this attribute is plotted on the horizontal axis. It represents the total population of different regional groupings or countries and is used to compare against corresponding carbon dioxide emissions per capita.
+
+2. **t CO2-eq/cap**: Displayed on the vertical axis of the first chart (a), this attribute measures the annual emissions of carbon dioxide equivalents per capita for each region. It helps in understanding the per capita impact on climate by different populations.
+
+3. **Cumulative GDP in Billion US$ (PPP 2000)**: Featured on the horizontal axis in the second chart (b), this attribute accounts for the total economic output as measured by the Gross Domestic Product in purchasing power parity terms, benchmarked to the year 2000. This provides a basis for comparing the economic size of different regions.
+
+4. **kg CO2-eq/US$ GDP**: Shown on the vertical axis of the second chart (b), this metric denotes the amount of CO2 equivalents emitted per unit of GDP produced, offering insight into the carbon intensity of economic activities.
+
+5. **Regional Groupings**: These are categorical variables used across both charts to compare different groups of countries. In chart (a) these groups include Annex I, Non-Annex I, USA & Canada, Europe Annex II and M&T, Middle East, Latin America & Caribbean, East Asia, Africa, and South Asia. In chart (b) similar regions are compared but primarily focusing on their economic output and GHG efficiency.
+
+These variables and metrics allow an assessment of environmental impact concerning population and economic activity across different global regions, highlighting disparities and areas for potential improvement in sustainability efforts.

@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Year (Independent Variable)
+- GtC/yr (Gigatonnes of Carbon per Year) (Dependent Variable)
+- Different climate models (Categorical Independent Variable; represented by different lines with unique labels and colors)
+
+EXPLANATION:
+- **Year**: This represents the time scale on the horizontal axis, spanning from approximately 1980 to 2100. It acts as the independent variable, and the progression of time is used to observe changes in the dependent variable.
+
+- **GtC/yr (Gigatonnes of Carbon per Year)**: Displayed on the vertical axis, this measures the annual rate of carbon emissions in gigatonnes. This is the primary dependent variable, showing the output or response expected to change as a result of the progression over years.
+
+- **Different climate models**: Each line on the graph represents projections from a different climate model, indicated by varying colors and labels such as AIM, MERGE, PEF, etc. These models are categorical independent variables. They offer varying predictions of future carbon emissions based on different assumptions and computational techniques. Labels like "Database Max" and "Database Min" possibly denote the range of projections offered by collected data across models, providing a scope of the highest and lowest emission scenarios forecasted by the available models.

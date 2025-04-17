@@ -1,0 +1,18 @@
+ATTRIBUTES:
+1. Scenario Categories (Independent Variable)
+2. Global temperature increase (°C) (Dependent Variable)
+3. Climate Models and Studies (Independent Variable)
+
+EXPLANATION:
+1. **Scenario Categories** - These are various scenarios under which the global temperature increase is projected. They include B1, B2, A1B, A1T, A2, A1FI, representing different socio-economic and environmental development pathways which affect CO2 emissions and other factors impacting climate change.
+
+2. **Global temperature increase (°C)** - This attribute represents the increase in global temperature in degrees Celsius under each scenario. It varies depending on the scenario and the inputs from different climate models or studies.
+
+3. **Climate Models and Studies** - Represented by various symbols and colors on the chart, these include a range of climate models and research outputs that have been used to predict the temperature increase. Each model or study, such as AOGCMs, MAGICC, BERN, Wigley, and others, provides a range of outcomes based on different assumptions, which are plotted on the graph. Different symbols and colors denote specific models or studies:
+   - For example:
+     - **AOGCMs 5-95%** (normal fit) shows the range of outcomes predicted by Atmosphere-Ocean General Circulation Models in the 5th to 95th percentile.
+     - **MAGICC mean** indicates the average output from the Model for the Assessment of Greenhouse-gas Induced Climate Change, considering standard carbon cycles.
+     - **BERN2.5CC standard version** represents results from the Bern2.5 Climate Change model standard calculations.
+     - **Harris 2006**, **Stott 2002/2006**, and others refer to specific studies conducted in those years that presented their predictions based on their unique methods and assumptions.
+
+The graphical representation with varied symbols and colors for different models or studies provides a comparative visualization of how each predicts the temperature changes across different future scenarios, highlighting the physics uncertainty, and differing carbon cycle impacts as modeled by the various researchers and simulations.

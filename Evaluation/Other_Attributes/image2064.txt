@@ -1,0 +1,31 @@
+Chart 2064:
+
+**Identified Attributes:**
+
+1. **Time (Ma)** - Horizontal axis across all sections.
+2. **Atmospheric CO2 (ppm)** - Vertical axis in the top and bottom sections.
+3. **Continental glaciation (° palaeolatitude)** - Secondary vertical axis in the top section.
+4. **Deep Ocean Temperature (°C)** - Vertical axis in the middle section.
+5. **CO2 Proxies** - Various lines/bars representing different methods (e.g., Stomata, Phytoplankton, Boron).
+6. **Geochemical Models** - Area representing plausible ranges of CO2 based on models (e.g., GEOCARB III).
+7. **Isotope Values (‰ 18O)** - Vertical axis in the middle section, represented by line data points.
+8. **Data layers** - Different colored sections in the plots indicating ranges, averages, or types of data.
+
+**Visualization Explanation:**
+
+1. **Time (Ma)** - Represented on the horizontal axis, spanning from 400 million years ago to the present.
+2. **Atmospheric CO2 (ppm)** - Displayed on the vertical axis in both the top and bottom sections with line plots showing CO2 levels across time.
+3. **Continental glaciation (° palaeolatitude)** - Shown as vertical blue bars on the right side of the top section, indicating ice sheet extents at various times.
+4. **Deep Ocean Temperature (°C)** - Presented with a dark line plot, indicating temperature changes over the same time frame.
+5. **CO2 Proxies** - Illustrated with distinct colored lines/bars for each method (Stomata, Phytoplankton, Boron) across the top and bottom sections.
+6. **Geochemical Models** - Plotted as shaded areas and lines overlaid in the top and bottom sections, depicting model predictions of CO2 levels.
+7. **Isotope Values (‰ 18O)** - Indicated by a black line and data points in the middle section, reflecting changes in isotope values corresponding to glaciation.
+8. **Data layers** - Visualized through a combination of colors and shaded areas in the plots, representing variability and confidence in the data.
+
+**Summary of Chart Variables:**
+
+- **X-Axis:** Time (Ma)
+- **Y-Axis (Top):** Atmospheric CO2 (ppm) and continental glaciation (° palaeolatitude)
+- **Y-Axis (Middle):** Deep Ocean Temperature (°C) and isotope values (‰ 18O)
+- **Y-Axis (Bottom):** Atmospheric CO2 (ppm)
+- **Legend/Colors:** Different colors represent various CO2 proxy methods and geochemical models.

@@ -1,0 +1,26 @@
+ATTRIBUTES:
+1. Surface area (Mkm²) - Dependent Variable
+2. Carbon Stocks (PgC) - Dependent Variable
+3. Biome Types (Categories) - Independent Variable
+   - D (Desert)
+   - G&S (Grassland & Shrubland)
+   - Gk (Grassland [Cold])
+   - ME (Montane)
+   - Fth (Forest [Temperate])
+   - Ftp (Forest [Tropical])
+   - T (Tundra)
+   - FW (Freshwater)
+   - C (Cropland)
+   - O (Other)
+
+EXPLANATION:
+1. Surface area (Mkm²) - This represents the surface area in million square kilometers for various biome types. The bars indicate the amount of land (in millions of square kilometers) covered by each biome type; this is shown on the left vertical axis.
+
+2. Carbon Stocks (PgC) - This measures the amount of carbon stored (in petagrams of carbon, where 1 PgC = 1 billion metric tons of carbon) in each biome type; illustrated by the right vertical axis. It captures two scenarios, depicted by different colored bars:
+   - Brown Bar (Atmosphere ~2000): Represents the estimated carbon stocks for each biome around the year 2000.
+   - Blue Bar (Atmosphere P-IND): Represents the estimated pre-industrial revolution carbon stocks per biome.
+   - Yellow Bar (Atmosphere LGM): Represents the estimated carbon stocks during the Last Glacial Maximum.
+
+3. Biome Types (Categories) - Different categories on the horizontal axis represent different types of biomes, such as deserts, grasslands, shrublands, forests, etc. Each biome type has specific characteristics concerning carbon storage and surface area which are represented by bars in the chart. This is a crucial variable as it categorizes data points, helping to differentiate between how each biome type contributes to global carbon stocks and land distribution.
+
+In sum, the chart compares the carbon storage and surface area of different biomes under varied historical or prehistorical conditions, reflecting the impact of different environmental or climatic scenarios on these biomes.

@@ -1,0 +1,14 @@
+ATTRIBUTES:
+1. Year (Independent Variable)
+2. Cold Spells (Days) (Dependent Variable)
+3. Warm Spells (Days) (Dependent Variable)
+4. Heat Wave Magnitude Index (Day) (Dependent Variable)
+
+EXPLANATION:
+1. **Year**: Represents the temporal dimension across the three plots, spanning from 1900 to 2020. This variable serves as the independent variable on the x-axis of each chart, showing the progression of time and helping to explore changes in climate patterns over the century.
+
+2. **Cold Spells (Days)**: Shown in the top chart, this dependent variable indicates the annual count of days classified as cold spells. A cold spell may typically be defined by local or regional climatological conditions that fall significantly below the average temperature. The plotted line may represent an average or trend line over the depicted period, showing the variation and potential decrease in the number of cold spell days over time.
+
+3. **Warm Spells (Days)**: Displayed in the middle chart, this dependent variable measures the annual count of days identified as warm spells. Similar to cold spells, warm spells are periods where temperatures significantly exceed the average climatic conditions for a time of year. The trend shown by the line may indicate changes such as increase, decrease, or volatility in the number of warm spell days yearly.
+
+4. **Heat Wave Magnitude Index (Day)**: The bottom chart illustrates this variable which quantifies the magnitude of heatwaves on an index scale per day each year. This index likely measures the severity and duration of heatwaves, useful for understanding trends in more intense climate events. The data points and trends highlight the variation in heat wave intensities experienced over the years and decades.

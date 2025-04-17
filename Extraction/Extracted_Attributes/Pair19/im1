@@ -1,0 +1,21 @@
+ATTRIBUTES:
+- Year (Independent Variable)
+- Sea Level Rise (m) (Dependent Variable)
+- Scenarios (A1B, A1FI, A1T, A2, B1, B2) (Categorical Variable)
+
+EXPLANATION:
+- **Year**: This attribute represents the time dimension along the x-axis of the graph. The years range from 1990 to 2100 and are used as the independent variable against which the changes in sea level are measured.
+
+- **Sea Level Rise (m)**: Represented on the y-axis, this attribute measures the rise in sea levels in meters. It is the dependent variable that changes in response to the passage of time under various scenario conditions.
+
+- **Scenarios (A1B, A1FI, A1T, A2, B1, B2)**: These represent different projected scenarios plotted on the chart, each likely associated with different assumptions about factors affecting climate change, such as economic growth, energy consumption, and technological development. Each scenario is represented by a different line style and color:
+  - **A1B**: Solid red line
+  - **A1FI**: Dashed red line
+  - **A1T**: Dash-dot red line
+  - **A2**: Solid yellow line
+  - **B1**: Solid green line
+  - **B2**: Solid teal line
+
+- **Variability Bands**: The gray shaded area around the lines suggests uncertainty or variability ranges in the sea level rise predictions, providing a visual representation of confidence or prediction intervals associated with the estimates under specific scenarios. 
+
+The chart overall depicts how each scenario influences the projected change in sea levels, with different trajectories based on the underlying assumptions of each scenario regarding global factors such as population growth, economic models, energy sources, and environmental policies.

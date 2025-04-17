@@ -1,0 +1,16 @@
+ATTRIBUTES:
+1. Time (Months) - Independent Variable
+2. Precipitation Change on the Left chart (mm/day) - Dependent Variable
+3. Temperature Change on the Right chart (°C) - Dependent Variable
+4. Confidence Intervals (Shaded Areas) - Dependent Variable
+
+EXPLANATION:
+1. **Time (Months)**: Represented on the x-axis of both charts, they follow the 12 months of the year from January (J) to December (D). This variable acts as the independent variable used to measure changes in precipitation and temperature over different times of the year.
+
+2. **Precipitation Change (mm/day)**: Shown on the left chart, this dependent variable measures the difference in precipitation rates in millimeters per day, presumably from a baseline or historical average. The chart presumably aims to show how precipitation is expected to change in the Arctic region (between 60°N and 90°N latitude) under a specific climate scenario (SRES A1B) compared to a baseline scenario (20C3M).
+
+3. **Temperature Change (°C)**: Shown on the right chart, this variable measures changes in temperature in degrees Celsius. Similarly to precipitation, this is likely in comparison to a historical or baseline average, showing projected shifts in the Arctic temperature under the SRES A1B scenario relative to the 20C3M scenario.
+
+4. **Confidence Intervals (Shaded Areas)**: The shaded areas around the central trend lines on both charts indicate the confidence intervals, providing a visual range within which the actual values are expected to fall with a certain level of confidence. These intervals help in understanding the uncertainty in the projections of both precipitation and temperature changes. 
+
+The context of both charts appears to involve climate modeling, emphasizing the impact of specific emissions scenarios (SRES A1B) versus a baseline climate scenario (20C3M) in the Arctic region, giving an illustration of how extreme weather changes (particularly precipitation and temperature) might manifest seasonally.

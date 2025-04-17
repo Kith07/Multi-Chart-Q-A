@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Response Index (Dependent Variable)
+- Group Labels (I, II, III, V, VI) (Independent Variable)
+- Importance of Energy Efficiency vs. Carbon Efficiency (Inferred Independent Variable)
+
+EXPLANATION:
+- **Response Index**: This is displayed on the y-axis and it is on a log scale, ranging approximately from 0.01 to 100. It represents a numeric value presumably associated with a measurement or output of interest in the context of energy. The exact nature of the Response Index depends on additional context not provided directly by the graph but may correlate to efficiency measurements or performance evaluations in energy systems.
+  
+- **Group Labels (I, II, III, V, VI)**: These labels are enumerated on the x-axis across each panel within the visualization. Each label likely corresponds to different categories or treatments within the study, such as different technology solutions, policy scenarios, or geographic regions, affecting energy efficiency or carbon efficiency.
+
+- **Importance of Energy Efficiency vs. Carbon Efficiency**: This is an inferred attribute based on the text annotations "Energy efficiency more important" and "Carbon efficiency more important" along the y-axis. This suggests a variable context wherein the importance of energy efficiency versus carbon efficiency in the systems or scenarios under study is being evaluated. This likely influences the Response Index, where values higher on the y-axis indicate scenarios prioritizing energy efficiency and lower values indicate a focus on carbon efficiency.

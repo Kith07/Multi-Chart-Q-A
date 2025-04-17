@@ -1,0 +1,17 @@
+ATTRIBUTES:
+1. Year (Independent Variable)
+2. Global Surface Warming (°C) (Dependent Variable)
+3. Climate Scenario Projections (A2, A1B, B1) (Categorical Variable)
+4. Average Temperature Increase Projections for the Years 2020-2029 and 2090-2099 (Dependent Variables)
+
+EXPLANATION:
+1. **Year**: The timeline shown in the chart, ranging from 1900 to 2100. This variable represents the passage of time and is used to measure changes in other variables over this period.
+
+2. **Global Surface Warming (°C)**: This attribute represents the warming of Earth's surface averaged globally in degrees Celsius. The variable is shown over time and is the primary dependent variable as it depends on time and assumed emissions scenarios.
+
+3. **Climate Scenario Projections (A2, A1B, B1)**: These labels signify different greenhouse gas emission scenarios used in climate modeling. Each color in the graph correlates to one scenario. These are categorical variables used to illustrate different potential future realities:
+   - **A2**: Represents a very heterogeneous world with a continuously increasing global population and regionally oriented economic growth.
+   - **A1B**: Represents a scenario with balanced energy sources and a global population that peaks in mid-century followed by a decline.
+   - **B1**: Represents a convergent world with rapid changes in economic structures toward a service and information economy, with reductions in material intensity and the introduction of clean and resource-efficient technologies.
+
+4. **Average Temperature Increase Projections for the Years 2020-2029 and 2090-2099**: These are visualized in the bar graph and map plots on the right side of the image, showing predicted average temperature increases under the A2, A1B, and B1 scenarios for these specific decades. The bar graph compares the magnitude of the change in each scenario, using a color code consistent with the time series chart. The maps provide a spatial distribution of the projected warming across the globe for two future periods, emphasizing regional differences in warming under each scenario.

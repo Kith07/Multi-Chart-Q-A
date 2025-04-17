@@ -1,0 +1,14 @@
+ATTRIBUTES:
+1. Year (2030, 2050) - Independent variable
+2. Scenario (IEA-WEO2009-Baseline, ReMind-Recipe, MiniCAM-EMF22, ER-2010) - Independent variable
+3. CO2 Emissions (Gt CO2/yr) - Dependent variable
+4. Reference lines for 2008 total and 30% emissions - Dependent variable
+
+EXPLANATION:
+1. **Year**: The years mentioned in the chart (2030, 2050) represent the time points at which forecasts of CO2 emissions are made. These are the independent variables as they help in identifying the temporal shift in emission levels under different scenarios.
+   
+2. **Scenario**: These are the labels under each pair of bars that signify different energy or climate pathways, such as IEA-WEO2009-Baseline, ReMind-Recipe, MiniCAM-EMF22, and ER-2010. Each scenario reflects a different approach or assumptions about future developments in energy policies, technology, and usage, acting as independent variables that influence the CO2 emissions outcome.
+
+3. **CO2 Emissions (Gt CO2/yr)**: This is the primary metric being measured and compared across different scenarios and years. Represented by the height of the bars in the chart, this dependent variable quantifies the amount of CO2 in gigatons emitted per year under each scenario.
+
+4. **Reference lines for 2008 total and 30% emissions**: These reference lines provide benchmarks against which the future scenarios' emissions can be compared. The solid red line represents the total global energy-related CO2 emissions in 2008, and the dashed line represents 30% of the 2008 emissions. These lines are used to visually assess how future emissions compare to historical levels, serving as contextual indicators on the chart.

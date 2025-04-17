@@ -1,0 +1,11 @@
+**ATTRIBUTES:**
+- Year (Independent Variable)
+- Life Expectancy (Dependent Variable)
+- Gender (Categorical Variable)
+
+**EXPLANATION:**
+- **Year:** This represents the timeline from 1990 to 2013 along the horizontal axis of the chart. It is the independent variable as it is the variable that changes independently of others and is used to measure the effect on life expectancy.
+  
+- **Life Expectancy:** Shown on the vertical axis, it indicates the average number of years that a person is expected to live. It varies yearly and is the dependent variable in the context of this chart, as it depends on the year and possibly on gender influences.
+
+- **Gender:** Categorized into male and female, represented by blue and orange lines respectively. This variable distinguishes the life expectancy values for males and females, providing a comparative view of life expectancy trends for both genders in Norway from 1990 to 2013.

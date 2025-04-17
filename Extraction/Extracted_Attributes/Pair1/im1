@@ -1,0 +1,11 @@
+ATTRIBUTES:
+1. Age Categories (Independent Variable)
+2. Percentage of All Deaths Due to Disease Category (Dependent Variable)
+3. Disease Categories (Dependent Variable)
+
+EXPLANATION:
+1. **Age Categories**: This attribute represents different stages of early childhood and is used as the basis for segmentation in the chart. It includes "Early neonatal", "Late neonatal", "Post-neonatal", "1 to 4", and "Under 5". These categories help in understanding how the causes of deaths vary across different early ages.
+
+2. **Percentage of All Deaths Due to Disease Category**: This is a measurable attribute that represents the proportion of total deaths attributed to various disease categories within specific age groups. It is expressed as a percentage, allowing for comparison across the different age categories.
+
+3. **Disease Categories**: This includes "Non-communicable diseases", "Injuries", and "Communicable, maternal, neonatal, and nutritional diseases". This variable illustrates the cause of deaths and its distribution across age categories, highlighting how different health issues impact mortality rates in early childhood. Each color in the chart (grey, orange, blue) corresponds to one of these categories, providing a visual distribution of mortality causes.

@@ -1,0 +1,11 @@
+ATTRIBUTES:
+1. Year (Independent Variable)
+2. Number of New Cases per 100,000 (Dependent Variable)
+3. Gender (Categorical Independent Variable)
+
+EXPLANATION:
+1. Year: This attribute represents the timeline from 1990 to 2010 along the x-axis of the chart. The time variable is used to observe changes and trends in new cases per 100,000 people over these years.
+
+2. Number of New Cases per 100,000: Depicted on the y-axis, this is the primary metric being measured. It quantifies the incidence of new cases, adjusted per 100,000 people in the population, allowing for standardized comparisons over time and by gender.
+
+3. Gender: This categorical variable differentiates the data by Male and Female, which are represented by different colors in the chart (blue for Male and orange for Female). Gender is an essential variable to understand any differing trends or patterns in the incidence of new cases between men and women.

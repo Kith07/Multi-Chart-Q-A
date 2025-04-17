@@ -1,11 +1,12 @@
 You're an expert in the following domains: {DOMAIN}.
 
-Given a list of attributes/variables extracted from scientific charts/plots pertaining to the domains of your expertise, come up with an inference-based question that leverages information from all sets of charts that would otherwise be impossible with information from only a subset of the given attributes/variables.
+Given a list of attributes/variables extracted from scientific charts/plots pertaining to the domains of your expertise, come up with 5 inference-based question that leverages information from both sets of attributes that would otherwise be impossible with information from only a subset of the given attributes/variables.
 
 INSTRUCTIONS:
 1. Study all attributes/variables carefully
 2. Identify key relationships, trends, or correlations across both charts based on their attributes
-3. Create a sophisticated question that requires using information from both captions to answer
+3. Create 5 sophisticated question that requires using information from both sets of attributes to answer. You need not hit every single attribute in both sets as a checklist. Prioritize cohesion and practicality of the questions.
+4. Make sure there is an even spread of attribute usage from both sets of attributes for the 5 questions. In other words, as mentioned above, try to distribute the relevant connections between both sets of attributes across 5 concise yet coherent questions.
 
 Give me your response in the following format:
 "QUESTION: (Provide your response)"

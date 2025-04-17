@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Energy Sources (independent variable): Types of energy like coal, oil, nuclear gas, hydropower, and renewables.
+- Region or Specific Instance (independent variable): Various regions or specific instances like OECD, non-OECD, EU 27, China (1994-1999), Chernobyl (RBMK).
+- Fatality Rate (dependent variable): Number of fatalities per gigawatt-year of energy production.
+
+EXPLANATION:
+- Energy Sources: This attribute represents different sources of energy production mentioned in the chart. These include conventional energy sources such as coal, oil, and nuclear gas, alongside renewable energy sources like hydropower and various forms of renewables (solar PV, wind, biomass, geothermal).
+- Region or Specific Instance: This specifies the regions or specific historical events being compared concerning energy production's fatality rate. Regions include groupings like OECD (Organisation for Economic Co-operation and Development) countries, EU 27 (27 European Union countries), and broader categories like non-OECD countries. Specific instances like the Chernobyl disaster are also noted for their impact on the statistics.
+- Fatality Rate: Measured as deaths per gigawatt-year, this variable indicates the danger or safety level associated with each energy source, providing a measure of the number of human fatalities attributed to the production of electricity from each energy source across different regions or significant instances.
+
+These attributes and their interrelationships help analyze the safety (in terms of human fatalities) of different energy production methods across various geopolitical and historical contexts.

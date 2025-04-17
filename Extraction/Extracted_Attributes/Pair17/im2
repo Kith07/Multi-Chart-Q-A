@@ -1,0 +1,23 @@
+ATTRIBUTES:
+1. Month (Independent Variable)
+2. PCV or Rotavirus to pentavalent vaccine ratio (Dependent Variable)
+3. Vaccine Dose Type:
+   - PCV: Penta, dose 1
+   - PCV: Penta, dose 2
+   - PCV: Penta, dose 3
+   - Rota: Penta, dose 1
+   - Rota: Penta, dose 2
+
+EXPLANATION:
+1. **Month**: Represents the timeline over which the data is graphed, from April 2013 to August 2016. The month acts as the independent variable against which the effectiveness or prevalence of the vaccine doses (both PCV and Rotavirus) are charted.
+
+2. **PCV or Rotavirus to pentavalent vaccine ratio**: This is the primary dependent variable that measures the ratio of individuals receiving the specific designated vaccine (either PCV or Rotavirus) to those receiving the pentavalent vaccine at each time point. The ratio helps understand the reach or penetration of each vaccine type over time in relation to the pentavalent vaccine.
+
+3. **Vaccine Dose Types**: These represent variables for specific vaccine doses plotted on the graph.
+   - **PCV: Penta, dose 1**: Represents the ratio of individuals receiving the first dose of the PCV vaccine as part of the pentavalent vaccination program at each time point.
+   - **PCV: Penta, dose 2**: Represents the ratio for the second dose of the PCV vaccine.
+   - **PCV: Penta, dose 3**: Represents the ratio for the third dose of the PCV vaccine.
+   - **Rota: Penta, dose 1**: Represents the ratio of individuals receiving the first dose of the Rotavirus vaccine as part of the pentavalent vaccination program at each time point.
+   - **Rota: Penta, dose 2**: Represents the ratio for the second dose of the Rotavirus vaccine.
+
+This graph is critical in depicting how well vaccines are being delivered and adopted over time, showing potential barriers or successes in public health campaigns concerning vaccination in Zambia.

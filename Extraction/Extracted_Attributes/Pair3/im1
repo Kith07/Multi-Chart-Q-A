@@ -1,0 +1,11 @@
+ATTRIBUTES:
+1. Year (Independent Variable)
+2. Ice Thickness Anomaly (Dependent Variable)
+3. Ice Volume Anomaly (Dependent Variable)
+
+EXPLANATION:
+1. **Year**: This variable represents the time dimension, spanning from 1950 to 2000. It is independent as it is not influenced by the changes in ice thickness or volume but is used as a basis for measuring these changes over time.
+
+2. **Ice Thickness Anomaly (m)**: This attribute measures the deviation of ice thickness from a set reference value or average, expressed in meters. The multiple lines (of various colors and styles) likely represent different datasets or models estimating these anomalies. It appears on the primary y-axis of the chart, on the left, scaled from -0.8 to 0.8 meters.
+
+3. **Ice Volume Anomaly (10^3 km^3)**: This variable, measured in thousands of cubic kilometers, indicates the deviation of ice volume from a reference value or long-term average. It is shown on the secondary y-axis on the right of the chart, scaled from -8 to +6 x 10^3 km^3. Various lines likely represent different data sources or modeling results with respect to volume measurements. This anomaly might include both ice gain and loss over the specified time period shown, which can be critical for understanding broader impacts in climate systems and sea levels.

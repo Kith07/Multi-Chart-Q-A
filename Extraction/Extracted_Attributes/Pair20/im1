@@ -1,0 +1,18 @@
+ATTRIBUTES:
+- CO2 Concentration (ppm) (Independent Variable)
+- O2 Concentration Difference from Standard (ppm) (Dependent Variable)
+- Year (Data Label on Plot Points)
+- Processes (Annotations on Lines: fossil fuel burning, outgassing, atmospheric increase, land uptake, ocean uptake)
+
+EXPLANATION:
+- **CO2 Concentration (ppm)**: This attribute represents the concentration of carbon dioxide in the atmosphere, measured in parts per million (ppm). It is plotted on the horizontal axis and functions as the independent variable in this chart. Carbon dioxide levels in the atmosphere can impact various biological and physical processes on Earth, including the atmospheric concentration of other gases like oxygen.
+
+- **O2 Concentration Difference from Standard (ppm)**: Plotted on the vertical axis, this attribute indicates the deviation of oxygen concentration from a standard value, also in parts per million (ppm). It serves as the dependent variable, showing how changes in CO2 concentration could affect oxygen levels in the atmosphere.
+
+- **Year**: The years marked along the plot points span from 1990 to 2000 and help in tracking changes in oxygen concentration relative to CO2 levels over this decade. Each point marks the intersection of a specific year’s data for both CO2 and O2 concentrations, giving temporal context to the data.
+
+- **Processes (Annotations)**:
+  - **Fossil Fuel Burning**: This process is annotated as influencing the trend from 1990 to around 1998-1999, indicating it as a main driver in the increase of CO2 concentration, which correlates with a steep decrease in O2 concentration.
+  - **Outgassing**: Indicated near the year 2000, signifies the release of gases from Earth into the atmosphere, which might include increased CO2 levels that affect O2 concentrations.
+  - **Atmospheric Increase**: Noted towards the end of the 2000 mark, suggesting an increase in atmospheric CO2.
+  - **Land Uptake and Ocean Uptake**: These are labeled as processes affecting the concentrations of gases post-2000 inline on the chart, likely indicating these factors help in reducing atmospheric CO2, potentially stabilizing or improving O2 levels via natural sequestration processes.

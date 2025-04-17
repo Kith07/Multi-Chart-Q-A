@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Year (Independent Variable)
+- Carbon Dioxide Annual Change (ppm) (Dependent Variable, Panel a)
+- Carbon Dioxide Airborne Fraction (Dependent Variable, Panel b)
+
+EXPLANATION:
+- **Year**: This attribute represents the time period over which the data were collected, from around 1960 to 2000. It is used as the base or independent variable against which other changes are measured over time.
+
+- **Carbon Dioxide Annual Change (ppm)**: Shown in Panel (a) of the chart, this variable measures the annual increase in carbon dioxide concentrations in parts per million (ppm). The line graph tracks how this change fluctuates yearly, illustrating trends in how much additional CO2 is added to the atmosphere annually.
+
+- **Carbon Dioxide Airborne Fraction**: Depicted in Panel (b), this variable indicates the fraction of carbon dioxide emissions that remain in the atmosphere after accounting for other sinks such as absorption by oceans and forests. The bar graph represents the variability and trend of this fraction over time, highlighting the efficiency or inefficiency of natural "sinks" in absorbing emitted CO2 annually.

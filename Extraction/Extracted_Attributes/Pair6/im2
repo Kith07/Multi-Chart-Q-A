@@ -1,0 +1,21 @@
+ATTRIBUTES:
+- Type of Healthcare Facility (Independent Variable)
+- Proportion of Patients by Payment Category (Dependent Variable)
+- Payment Categories:
+  - No medical expenses
+  - Less than 10,000 Ugandan Shillings (Ushs)
+  - 10,000 to 19,999 Ushs
+  - 20,000 Ushs or more
+
+EXPLANATION:
+- **Type of Healthcare Facility**: This attribute categorizes facilities into four distinct types: Public hospitals, Private hospitals, Public health centers, and Private health centers. It serves as the independent variable as each facility type's designation does not depend on the data collected but is a predefined categorization.
+
+- **Proportion of Patients by Payment Category**: This dependent variable represents the percentage of patients within each facility that falls into various payment categories for medical expenses. It is depicted as a percentage on the y-axis where each bar in the bar chart represents a single facility, and the color division within each bar indicates varying payment amounts.
+
+- **Payment Categories**:
+  - **No medical expenses**: This category, represented by green in the charts, shows the proportion of patients who did not incur any medical expenses.
+  - **Less than 10,000 Ugandan Shillings (Ushs)**: Indicated by yellow, this range reflects patients whose medical expenses were below 10,000 Ushs.
+  - **10,000 to 19,999 Ushs**: This middle range, represented by orange, indicates patients whose expenses fell between 10,000 and 19,999 Ushs.
+  - **20,000 Ushs or more**: Represented by red, this category includes patients who incurred medical expenses of 20,000 Ushs or greater.
+
+Each bar or group of bars indicates the proportion of patients by cost category across different types of facilities, highlighting how financial burden distribution varies significantly between public and private facilities. This visualization is particularly useful for analyzing financial accessibility and burden within various healthcare providers.

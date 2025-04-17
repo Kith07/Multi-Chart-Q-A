@@ -1,0 +1,14 @@
+**ATTRIBUTES:**
+1. Year (Independent Variable)
+2. Capacity Factor (%) (Dependent Variable)
+3. Number of Projects (Independent Variable)
+4. Megawatts (MW) (Independent Variable)
+
+**EXPLANATION:**
+1. **Year:** This attribute represents the calendar year for which the data is analyzed. It serves as the independent variable along the x-axis in this chart, with each bar representing the capacity factor for a given year.
+
+2. **Capacity Factor (%):** This attribute is depicted as the dependent variable measured along the y-axis. The capacity factor in renewable energy contexts often refers to the ratio of the actual electrical energy output over a certain period to the theoretical maximum output if the system ran at peak capacity continuously over the same period.
+
+3. **Number of Projects:** This attribute, listed under the chart as a row of numbers correlating with each year, indicates the total number of projects operational in that specific year. These projects are likely responsible for the generation amounts contributing to the calculated capacity factors.
+
+4. **Megawatts (MW):** Also presented under the chart associated with each year, this attribute reflects the total installed capacity of the projects in megawatts. This figure helps underscore the scale of energy production infrastructure for each year and how that correlates with the capacity factor.

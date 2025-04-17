@@ -1,0 +1,27 @@
+Greetings! I was wondering if you could help me grade the following inference-based question asked by an expert in {DOMAIN}.
+
+I'll first provide two sets of attributes that were given to the expert, and then give you the meaningful question the expert came up with, as well as the grading rubric.
+
+The given charts and attributes are as follows:
+{ATTRIBUTES1}
+
+{ATTRIBUTES2} 
+
+The expert's question was:
+{QUESTION}
+
+Using a rubric table format, please grade the expert's inference-based compositional question with positive scoring.
+
+The criteria are:
+
+- Attribute Set 1 Info:     Score/2 (Utilizes a large subset, but not all of the attributes from Set 1)
+- Attribute Set 2 Info:     Score/2 (Utilizes a large subset, but not all of the attributes from Set 2)
+- Attribute Composition:    Score/4 (Creates sophisticated connection between both sets of attributes while maintaining practicality and coherence and not simply using the attribute sets as a checklist)
+- Clarity/Confidence:       Score/1 (Question is clear and could be answered with sufficient data with sufficient confidence)
+- Concise:                  Score/1 (Question is short and summarized and not overly elaborate)
+
+TOTAL SCORE: Score/10
+
+The table should have two columns: 'Criteria', 'Points'. In the 'Points' column, please provide a score that is out of the max for that category/criteria. 
+
+Please introduce the output table with 'Grading Rubric:' and please include a row for 'Total Points' at the end of the Table after all criteria. Finally, please start your grading explanation with 'ANSWER':

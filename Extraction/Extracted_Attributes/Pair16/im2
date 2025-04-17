@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Type of Geothermal Power Generation Technology (Independent Variable)
+- Lifecycle Greenhouse Gas (GHG) Emissions (grams of CO2 equivalent per kWh) (Dependent Variable)
+- Number of Estimates (Ancillary Information)
+- Number of References (Ancillary Information)
+
+EXPLANATION:
+- Type of Geothermal Power Generation Technology: This represents the technology used in geothermal power generation. In the chart, this is categorized into two types: "Flashed Steam" and "Enhanced Geothermal Systems (EGS)." This variable is independent as it defines the categories under which the emissions are measured.
+- Lifecycle Greenhouse Gas (GHG) Emissions (grams of CO2 equivalent per kWh): This variable measures the total GHG emissions associated with each technology, expressed in grams of carbon dioxide equivalent per kilowatt-hour. This is the dependent variable as it depends on the type of geothermal technology used.
+- Number of Estimates: This represents the number of emission estimates that contributed to the data presented for each technology. Although not plotted, it provides context on the robustness and variability of the data.
+- Number of References: This indicates the number of scientific references or studies consulted to derive the GHG emissions data for each technology. This, like the number of estimates, provides additional context regarding the data's depth and credibility.

@@ -1,0 +1,17 @@
+ATTRIBUTES:
+- Year (Independent Variable)
+- Temperature (Dependent Variable)
+- Forced Temperature Trend (Dependent Variable)
+- Unforced Temperature Trend (Dependent Variable)
+- Time Periods (t1, t2, t3, t4 as contextual variables)
+
+EXPLANATION:
+- **Year**: This represents the timeline from 1860 to the projected future until 2099. In this chart, 'Year' serves as the independent variable as it is the base over which other variables (temperature trends) are compared or measured.
+
+- **Temperature**: Indicates the global average temperature measured or projected over the years. It is plotted on the y-axis to show how it changes over time and under different scenario assumptions (forced vs. unforced).
+
+- **Forced Temperature Trend**: This curve depicts how global temperatures are expected to rise with human interventions, such as greenhouse gas emissions (considered as forcing factors). This trend is shown as a steeply rising curve, suggesting significant warming when human impacts are considered.
+
+- **Unforced Temperature Trend**: Exhibits the natural trend of temperature changes without human interventions. The relatively flat line indicates minimal change in temperature due to natural variability alone, contrasting sharply with the forced temperature trend.
+
+- **Time Periods (t1, t2, t3, t4)**: These are specific intervals marked on the chart: 1961-90, 2010-39, 2040-69, and 2070-99. These periods likely represent significant phases for analysis or reference points for observing temperature changes, emphasizing how temperature trends under forced conditions diverge progressively from natural trends over time. These intervals highlight the intervals of major changes or focus for study within the displayed timeline.

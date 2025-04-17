@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Equilibrium pCO2 (partial pressure of CO2 in atmosphere, µatm) - Independent variable
+- Cumulative emissions of CO2 (GtCO2) - Dependent variable
+- Equilibrium ΔpH (change in pH levels) - Aligned with independent variable
+
+EXPLANATION:
+- **Equilibrium pCO2 (partial pressure of CO2 in atmosphere, µatm)**: This variable represents the atmospheric concentration of CO2 measured in micro-atmospheres (µatm) on the x-axis. It is considered the independent variable because it is the variable being manipulated or changed, to observe effects on CO2 emissions and pH levels.
+  
+- **Cumulative emissions of CO2 (GtCO2)**: Displayed on the left y-axis, this measures the total global emissions of CO2 in gigatonnes (GtCO2). It is the dependent variable as it changes in response to the equilibrium pCO2. The chart shows that as pCO2 increases, the cumulative emissions also tend to increase.
+
+- **Equilibrium ΔpH (change in pH levels)**: Overlaid on the x-axis, this variable indicates the change in ocean pH level corresponding to increases in atmospheric CO2 concentrations. Although not an axis in its own right, it provides additional information on the effects of increasing pCO2. A negative value indicates a drop in pH, showing increasing acidity. This attribute is indirectly dependent on the equilibrium pCO2 and provides context on how rising CO2 levels could affect ocean acidity.

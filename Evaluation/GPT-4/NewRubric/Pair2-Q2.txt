@@ -1,0 +1,24 @@
+Grading Rubric:
+
+| Criteria             | Points    |
+|----------------------|-----------|
+| Attribute Set 1 Info | 2/2       |
+| Attribute Set 2 Info | 2/2       |
+| Attribute Composition| 3.5/4     |
+| Clarity/Confidence   | 1/1       |
+| Concise              | 1/1       |
+| **Total Points**     | **9.5/10**|
+
+ANSWER: In assessing the expert’s inference-based question against the rubric, here is the breakdown of the scoring:
+
+- **Attribute Set 1 Info**: The expert effectively uses two critical attributes from Set 1 – 'Scenario Categories' and 'Global temperature increase', which are key to mapping scenarios with temperature outcomes. This engagement earns a full score of 2.
+  
+- **Attribute Set 2 Info**: The question intelligently includes relevant attributes from Set 2, particularly focusing on 'Gt CO2-eq' emissions from specific sources, which are essential for indicating contributions to global temperature changes. Thus, it also receives a full score of 2.
+
+- **Attribute Composition**: The expert does an excellent job of forming a coherent and practical question that bridges both attribute sets by linking emissions types and sources to scenarios and their corresponding temperature forecasts. This sophisticated connection nears a perfect score; however, a slight ambiguity in the exact impact might limit the effective composition, leading to a score of 3.5.
+
+- **Clarity/Confidence**: The question is phrased clearly, allowing for a focused analysis if data on these specific connections is available. Clear and confident in its structure, this criterion deserves a full score of 1.
+
+- **Concise**: The question is concisely framed, encapsulating complex relationships without unnecessary details, meriting a full score of 1.
+
+Overall, the expert’s question skillfully integrates essential aspects from both attribute sets, connecting them in a coherent and researchable manner. Thus, a high total score is justified.

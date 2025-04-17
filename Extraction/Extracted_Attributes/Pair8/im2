@@ -1,0 +1,15 @@
+ATTRIBUTES:
+1. Various Institutions (Independent Variable)
+2. Funding Amount in million US$ (Dependent Variable)
+3. Source of Funding by Sector Percentage (Pie chart) (Dependent Variable)
+
+EXPLANATION:
+1. Various Institutions: This attribute represents different institutions or countries that contribute funding, segmented into banks, countries, and financial institutions that include both public (government) and private entities. These are listed at the bottom of the bar chart, acting as the categories for which funding amounts are indicated.
+
+2. Funding Amount in million US$: Displayed on the vertical axis of the bar graph, this variable quantifies the financial contribution in millions of US dollars that each institution or country has made. It acts as a measure of involvement and commitment towards a specific (unspecified from image) cause or project.
+
+3. Source of Funding by Sector Percentage: This is visually represented by a pie chart, which categorizes funding sources into three sectors
+   - Private financial institutions (43%)
+   - Development banks (30%)
+   - Governments (27%)
+   This attribute shows the proportional contributions of different sectors to a combined funding pool, providing insight into the financial engagement of private versus public sectors.

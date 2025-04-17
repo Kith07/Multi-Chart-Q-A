@@ -1,0 +1,11 @@
+ATTRIBUTES:
+1. Number of Staff (Dependent Variable)
+2. Location Type (Independent Variable)
+3. Staffing Target (Dependent Variable, indicated by the gray dotted line)
+
+EXPLANATION:
+1. **Number of Staff**: This attribute represents the total number of clinical officers or nurses working at each public health center. Each circle in the plots corresponds to one health center. The position of each circle along the horizontal axis indicates how many staff members are employed at that center.
+
+2. **Location Type**: The color of each circle (orange or green) signifies whether the health center is in an urban (orange) or rural (green) setting. This classification helps to compare the staffing levels between urban and rural health centers.
+
+3. **Staffing Target**: The gray dotted line across each plot represents the staffing target that public health centers in Kenya are expected to meet for either clinical officers or nurses. Examining the position of circles in relation to this line gives an insight into which centers are meeting, exceeding, or falling short of these staffing goals.

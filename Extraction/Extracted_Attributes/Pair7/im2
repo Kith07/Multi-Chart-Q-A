@@ -1,0 +1,34 @@
+### ATTRIBUTES:
+
+**For panel (a):**
+- **Longitude (independent variable)**
+- **Latitude (independent variable)**
+- **NAO Index (dependent variable)**
+
+**For panel (b):**
+- **Year (independent variable)**
+- **NAO Index (FebMar) (dependent variable)**
+- **Mean spring passage Helgoland (dependent variable)**
+- **Mean laying Pied Flycatcher (dependent variable)**
+- **Leaf unfolding Horse Chestnut (dependent variable)**
+- **Leaf unfolding Birch (dependent variable)**
+- **Temperature (FebMar) (dependent variable)**
+- **Temperature (MarApr) (dependent variable)**
+- **Temperature (MarAprMay) (dependent variable)**
+
+### EXPLANATION:
+
+**For panel (a):**
+- **Longitude and Latitude:** These attributes represent coordinate reference points on the map used to geographically locate the displayed data concerning the NAO index values.
+- **NAO Index:** Represents the North Atlantic Oscillation index, indicating climatic fluctuations in the North Atlantic region of the map. This index is visualized through the colored gradient on the map.
+
+**For panel (b):**
+- **Year:** Marks a timeline from 1950 to 2010 to display all the other variables, making it the fundamental temporal axis for the data shown.
+- **NAO Index (FebMar):** Measures the North Atlantic Oscillation values specifically for the months of February and March across the years displayed. This index can influence climate patterns and is shown as a blue line.
+- **Mean spring passage Helgoland:** Represents the average date or metrics related to the migration of birds through Helgoland in spring as a function of the year. This variable helps in studying the influence of climate changes on bird migration patterns and is depicted as the red line.
+- **Mean laying Pied Flycatcher:** Indicates the average laying time or occurrence for the Pied Flycatcher birds, which can be used as a biological indicator of climate change impacts, shown as the green line.
+- **Leaf unfolding Horse Chestnut:** Displays the timing of leaf unfolding in Horse Chestnut trees each year (light blue line), which can be another indicator of climatic variations.
+- **Leaf unfolding Birch:** Shows similar data as the previous, but for Birch trees, depicted in the yellow line.
+- **Temperature (FebMar, MarApr, MarAprMay):** These lines show average temperature recordings for specific springtime periods, which are key to understanding transitions in climatic conditions and their broader ecological impacts across years.
+
+These temporal and ecological variables together help in understanding the interdependence of climatic variations, ecosystem responses, and phenological changes over decades.

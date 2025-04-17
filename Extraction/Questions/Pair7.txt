@@ -1,0 +1,9 @@
+QUESTION 1: How might sustained deviations in the NAO Index influence staffing needs at rural versus urban health centers in climate-sensitive areas? Use longitudinal temperature trends such as those in February through May as correlated indicators of potential public health demand spikes due to climate-related illnesses.
+
+QUESTION 2: Can patterns of leaf unfolding in birch and horse chestnut, in correlation with early spring temperatures (FebMar, MarApr), provide a predictive model for workload shifts in health centers during the spring season, especially in locations prone to seasonal allergy outbreaks?
+
+QUESTION 3: How could fluctuations in the North Atlantic Oscillation (NAO) during early spring impact the migration health services required in rural versus urban settings, given migration sensitivity to climatic changes and subsequent shifts in staffing needs at corresponding health centers?
+
+QUESTION 4: Investigate the potential impact of climate change on rural health staffing by examining the relationship between mean laying dates of the Pied Flycatcher and early spring temperature trends. What implications could these ecological shifts have for anticipating healthcare service demands in these communities?
+
+QUESTION 5: Assess the feasibility of using geographical climate patterns (indexed by longitude and latitude positions influencing the NAO Index) to predict and strategically plan for staffing allocation in health centers, correlating specific climate-sensitive health issues with staff number variations against the staffing targets.

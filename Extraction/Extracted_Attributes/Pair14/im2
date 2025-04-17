@@ -1,0 +1,17 @@
+ATTRIBUTES:
+1. Year (Independent Variable)
+2. NINO 3 anomaly (ºC, 1960) (Dependent Variable)
+3. Reconstruction by Mann et al., 2000a (Dependent Variable - Overlaid Data)
+4. SOI reconstruction by Stahle et al., 1998 (Dependent Variable - Overlaid Inverted and Scaled Data)
+5. Instrumental data adapted from Rayner et al., 2000 (Dependent Variable - Overlaid Data)
+
+EXPLANATION:
+1. Year: Represents the timeline from 1700 to 2000 on which the anomalies and data reconstructions are plotted. It functions as the independent variable as it is the base against which all dependent measurements (like temperature anomalies) are recorded and analyzed.
+
+2. NINO 3 anomaly (ºC, 1960): This is the dependent variable measuring the deviation of temperature (in degrees Celsius using 1960 as the reference year) in the NINO 3 region. It shows variations in temperature which can be associated with naturally occurring climate phenomena such as El Niño.
+
+3. Reconstruction by Mann et al., 2000a: A dependent overlaid data series that represents a reconstruction of the NINO 3 anomalies from October to March for various years. It offers an historical perspective on temperature variations over several centuries.
+
+4. SOI reconstruction by Stahle et al., 1998: Another dependent data set shown in the graph. This winter SOI (Southern Oscillation Index) reconstruction is inverted and scaled to align with the standard deviation of the NINO 3 series. This manipulation helps in comparing it directly against the temperature anomalies and understanding relationships or patterns across both data sets.
+
+5. Instrumental data adapted from Rayner et al., 2000: This provides actual instrumental measurements of the NINO 3 temperature anomalies from October to March. It likely offers the most reliable and direct observations within the series as opposed to reconstructions or scaled datasets, thus serving as a crucial reference for evaluating the accuracy and consistency of climate models and reconstructions over the depicted period.

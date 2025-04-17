@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Year (Independent Variable)
+- Global GHG Emissions (Gt CO2-eq/yr) (Dependent Variable)
+- Emission Scenario (Categorical Variable: B1, A1T, B2, A1B, A2, A1FI)
+- post-SRES Range (80%) (Information Attribute)
+
+EXPLANATION:
+- **Year**: This represents the timeline from 2000 to 2100, providing a temporal scope over which global greenhouse gas (GHG) emissions are measured and projected in the plot.
+- **Global GHG Emissions (Gt CO2-eq/yr)**: Depicts the annual global emissions of greenhouse gases, measured in gigatonnes of CO2-equivalent per year. This is the primary metric being analyzed in relation to various emission scenarios and time.
+- **Emission Scenario**: A variety of emission scenarios (B1, A1T, B2, A1B, A2, A1FI) are shown, each represented by a different colored line. These scenarios are potential pathways developed for projecting future emissions based on varying socio-economic, technological, and policy developments.
+- **post-SRES Range (80%)**: This area shaded in gray shows the 80% range limit of possible emissions scenarios post the Special Report on Emissions Scenarios (SRES), indicating the minimum and maximum bounds observed across the scenarios presented. This contextual attribute informs us about the uncertainty and variability in the projections.

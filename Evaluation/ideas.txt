@@ -1,0 +1,17 @@
+1. Impose a stricter regular grading/evaluation rubric to improve refinement and help produce high-quality and meaningful questions
+
+2. Craft high-quality manual responses. Have a target response that’s a good answer to a question. Prompt the LLM on similarity between the actual
+   and target response on another rubric, this time on a scale of 0 to 10, and set a threshold for passing
+
+3. Feed the final grading score/explanation back to the LLM for fine-tuning based on reinforcement learning?
+
+
+TO_DO:
+
+1. Caclulate similarity for pairwise charts (Find poor pairs to test out rubric)  -- DONE
+2. Improve weightage of the composition criteria -- DONE
+3. Evaluate the questions with the new rubric
+4. Test with 100 Questions (Generation + Evaluation)
+
+Questions have to be 5 per pair and need not have to hit every single attribute but maintain utility -- DONE
+Change rubric to mention practicality over simply hitting attributes from both charts -- DONE

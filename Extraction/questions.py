@@ -4,16 +4,15 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DOMAINS = "Energy and Climate Science"
+DOMAINS = "Climate Science"
+#DOMAINS = "Energy"
+#DOMAINS = "Energy and Climate Science"
 
-with open("Extraction/Extracted_Attributes/output3/image1.txt") as f1:
+with open("Extraction/Extracted_Attributes/Pair20/im1") as f1:
     file1 = f1.read()
 
-with open("Extraction/Extracted_Attributes/output3/image2.txt") as f2:
+with open("Extraction/Extracted_Attributes/Pair20/im2") as f2:
     file2 = f2.read()
-
-with open("Extraction/Extracted_Attributes/output3/image3.txt") as f3:
-    file3 = f3.read()
 
 with open("Extraction/Prompts/inference_prompt.txt") as p:
     prompt = p.read()
@@ -22,7 +21,7 @@ prompt = prompt.format(
     DOMAIN=DOMAINS
 )
 
-prompt += f"File 1: \n {file1} \n File 2: \n {file2} \n File 3: \n {file3}"
+prompt += f"File 1: \n {file1} \n File 2: \n {file2}"
 
 openai.api_key = os.getenv("OPEN_AI_API_KEY")
 
@@ -36,5 +35,5 @@ response = openai.ChatCompletion.create(
     }]
 )
 
-with open("Extraction/Questions/Combo3", "w", encoding="utf-8") as f:
+with open("Extraction/Questions/Pair20.txt", "w", encoding="utf-8") as f:
     f.write(response["choices"][0]["message"]["content"])

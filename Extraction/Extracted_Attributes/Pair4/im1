@@ -1,0 +1,11 @@
+ATTRIBUTES:
+- Year (Independent Variable)
+- Productivity per Hectare (Dependent Variable)
+- Crop Type (Categorical Variable)
+
+EXPLANATION:
+- **Year**: This is the independent variable represented on the horizontal (x) axis. It shows various years from 1961 to 2008, indicating the period over which the data for crop productivity was collected and analyzed.
+
+- **Productivity per Hectare**: This is the dependent variable shown on the vertical (y) axis, measured in tonnes per hectare. It signifies the yield of different crops per unit area, demonstrating how this yield has changed over time from 1961 to 2008.
+
+- **Crop Type**: Represented by different symbols and colors for each crop (Palm Oil, Rapeseed, Wheat, Maize, Paddy Rice, Sugarcane). This categorical variable distinguishes the data points on the graph, allowing for comparison of productivity trends across various crop types over the depicted years. Each type of crop follows a trend line, indicating improvements or changes in agricultural productivity for that specific crop over the years.

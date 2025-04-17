@@ -1,0 +1,9 @@
+QUESTION 1: How do future projected increases in global surface temperature under the A2, A1B, and B1 climate scenarios correlate with CO2 emissions per capita across different regional groupings over the next few decades? Consider the potential feedbacks that higher temperatures might have on economies and per capita emissions rates.
+
+QUESTION 2: Given the significant population growth in regions such as South Asia and Africa, how might the cumulative CO2 emissions per capita evolve by the decades 2020-2029 and 2090-2099 under each climate scenario (A2, A1B, B1)? Consider both demographic trends and climate impacts on regional economic activities.
+
+QUESTION 3: Analyzing the climate scenario projections alongside regional economic outputs (GDP), which regions appear most vulnerable to achieving poor GHG efficiency (kg CO2-eq/US$ GDP) under high global temperature increases (e.g., under scenario A2 by 2090-2099)? How do these vulnerabilities compare across different economic and population growth trajectories?
+
+QUESTION 4: How does the relationship between global surface warming and GHG emissions efficiency (kg CO2-eq/US$ GDP) change when looking at different time slices (2020-2029 vs. 2090-2099) under various climate scenario projections? This analysis would provide insight into the long-term sustainability of economic growth models in relation to climate impacts.
+
+QUESTION 5: Considering future global surface warming projections, which regional groupings should prioritize transformative economic and environmental policies to mitigate both increased temperature impacts and CO2 emissions per capita? Emphasize regions with high projected temperature increases and currently high CO2 emissions per capita.

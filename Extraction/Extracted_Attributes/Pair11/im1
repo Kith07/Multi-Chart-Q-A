@@ -1,0 +1,8 @@
+ATTRIBUTES:
+- Year: Independent Variable
+- Deaths per 100,000: Dependent Variable
+
+EXPLANATION:
+- **Year**: This variable represents the time dimension, specifically the years in which the data was recorded. Each point on the x-axis correlates to specific years labeled as 1990, 1995, 2000, 2005, 2010, and 2013. The variable is independent as it is used to measure changes over time in the dependent variable.
+  
+- **Deaths per 100,000**: This variable captures the mortality rate, indicated per 100,000 population. It is expressed along the y-axis of the chart, and the range of values is from 0 up to 600 deaths per 100,000 people. The values reflect the death rates for specific years as designated on the x-axis and are dependent as they change in relation to the year. The chart uses vertical bars at each year point to represent variability or uncertainty about the death rate, with data points denoted by dots at the center of these bars, possibly indicating mean values.

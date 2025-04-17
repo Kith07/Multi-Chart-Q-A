@@ -1,0 +1,17 @@
+ATTRIBUTES:
+1. Mitigation option (Independent Variable)
+2. Mitigation potential - tC/ha (Dependent Variable)
+3. Investment cost - US$/tC (Dependent Variable)
+4. Carbon sequestration activities by type (Dependent Variable, depicted in the bar chart)
+5. Country/Region (Independent Variable)
+
+EXPLANATION:
+1. **Mitigation option** - This refers to different methods or strategies aimed at reducing CO2 emissions or increasing carbon storage in different forest ecosystems. These options include afforestation, reforestation, slowing deforestation, etc.
+
+2. **Mitigation potential - tC/ha** - This variable represents the potential amount of carbon (in tons of carbon per hectare) that could be mitigated by implementing specific forest-related measures over a full growth cycle or the lifetime of a particular forest management practice.
+
+3. **Investment cost - US$/tC** - This displays the cost associated with achieving each ton of carbon sequestered or emissions reduced through different forestry practices. The costs are usually summed up for plantation establishment and organizational costs in the initial years.
+
+4. **Carbon sequestration activities by type** - The bar chart categorizes the percentage contribution of various forest management activities to carbon sequestration across different countries. These activities include savannah thickening, restoration of degraded lands, forest protection, pest management, fire management, and several methods aimed at prolonging the use or life of forest products.
+
+5. **Country/Region** - This variable specifies the geographic focus, highlighting different countries and regions where the described carbon mitigation strategies are applicable. The chart indicates how different forest management actions vary across countries such as the USA, Canada, Australia, and regions like the EU15.

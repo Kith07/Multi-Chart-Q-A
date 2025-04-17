@@ -1,0 +1,22 @@
+Chart 2065:
+```
+Identified Attributes:
+Categories of Energy Technologies: Coal, Gas, Oil, Nuclear, Biomass (with distinctions for baseline (B) and stabilization (S) scenarios).
+Years: 2030 (top chart) and 2100 (bottom chart).
+Energy Units: Exajoules (EJ).
+Error Bars: Baseline (non-intervention) and intervention/stabilization scenarios.
+Statistical Measures: Full range (vertical lines), 25th and 75th percentiles (blue area), and median (middle tic mark) for each category.
+
+Visualization Explanation:
+Categories of Energy Technologies: Represented on the x-axis with labels for each technology, indicating both baseline and stabilization scenarios.
+Years: The two separate charts clearly label the years (2030 and 2100) at the top of each section.
+Energy Units: The y-axis is labeled "EJ" (Exajoules), representing the amount of energy.
+Error Bars: Left-side error bars indicate baseline scenarios, while right-side bars represent intervention scenarios; these visually differentiate the two.
+Statistical Measures: The full ranges of energy distributions are shown as vertical lines with tic marks at the extremes, the interquartile range (25th to 75th percentiles) is shaded in blue, and the median is indicated by a distinct middle tic mark on each box plot.
+
+Summary of Chart Variables:
+X-Axis: Categories of energy technologies (e.g., Coal, Gas, Oil).
+Y-Axis: Energy values in Exajoules (EJ).
+Years: Two sections for 2030 and 2100.
+Legend/Key: Shown through variable error bars and distribution presentations (box plots).
+Statistical representation: Full distribution range, interquartile range, and median.

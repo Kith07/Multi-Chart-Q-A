@@ -1,0 +1,27 @@
+ATTRIBUTES:
+- Year Range (Independent Variable)
+- Gt CO2-eq (Dependent Variable)
+- Source Categories (Independent Variable - Categorical)
+  - Agricultural CH4
+  - Agricultural N2O
+  - Forest
+  - Biomass
+- Radiation Forcing Levels (Independent Variable - Categorical)
+  - 2.9 W/m^2
+  - ~3.0 W/m^2
+  - 3.7 W/m^2
+  - 4.5 W/m^2
+
+EXPLANATION:
+- **Year Range (2000-2100)**: Indicates the time period over which the data is aggregated or modeled. This range helps understand the long-term trends and impacts.
+  
+- **Gt CO2-eq**: Represents gigatonnes of CO2 equivalents. This is a measure of how much global warming a given type and amount of greenhouse gas may cause, using the functionally equivalent amount of CO2 as the reference. This variable is used as a common scale for comparing the environmental impact of emitting different greenhouse gases.
+
+- **Source Categories**: These categories explain the source of the emissions measured in Gt CO2-eq.
+  - **Agricultural CH4**: Methane emissions from agricultural practices.
+  - **Agricultural N2O**: Nitrous oxide emissions from agricultural activities.
+  - **Forest**: Likely represents CO2 emissions from deforestation or similar activities.
+  - **Biomass**: Emissions from the burning or decay of biomass.
+  
+- **Radiation Forcing Levels**:
+  - **2.9 W/m^2, ~3.0 W/m^2, 3.7 W/m^2, 4.5 W/m^2**: These figures represent different scenarios or models for radiative forcing, measured in watts per square meter (W/m^2). Radiative forcing is a measure of the influence a factor has in altering the balance of incoming and outgoing energy in the Earth's atmosphere system, including factors like greenhouse gas concentrations. Each bar in the chart associated with these values represents a different scenario of future radiative forcing due to greenhouse gases, suggesting different impact levels on global warming.

@@ -1,0 +1,14 @@
+ATTRIBUTES:
+1. Cumulative CO2 emissions (Dependent Variable)
+2. Cumulative emission reductions (Independent Variable)
+3. Scenario Categories (I, II, III, IV, V, VI) (Categorical Variable)
+4. Time frames: 2030 and 2100 (Contextual Attribute)
+
+EXPLANATION:
+1. **Cumulative CO2 emissions**: This attribute, measured in gigatonnes (Gt CO2), represents the total amount of carbon dioxide emitted over a certain period. In the left chart, this period covers from 2000 to 2030, and in the right chart, it extends from 2000 to 2100. It serves as the dependent variable, being influenced by the levels of emissions reductions.
+
+2. **Cumulative emission reductions**: Represented in gigatonnes of CO2 (Gt CO2), this independent variable quantifies the total amount of CO2 emissions that have been prevented or eliminated through various interventions or technologies during the set periods. In the charts, this attribute is plotted on the x-axis.
+
+3. **Scenario Categories (I, II, III, IV, V, VI)**: These categorical variables, indicated by different symbols and colors on the chart, represent different scenarios or models used to predict future emissions and reductions. Each category likely represents a different set of assumptions regarding factors such as economic growth, technological advancement, policy implementations, etc.
+
+4. **Time frames: 2030 and 2100**: These years provide context for the data, indicating that the emissions and reductions are measured over different lengths of time: a 30-year period ending in 2030 in the first chart, and a 100-year period ending in 2100 in the second chart. Different time frames can significantly influence the cumulative values of emissions and reductions.

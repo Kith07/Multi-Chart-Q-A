@@ -1,0 +1,9 @@
+QUESTION 1: How might fluctuations in the decadal rate of sea level rise (as indicated by the solid black line and dashed black line) correlate with vaccination rates in a coastal region during the same period, particularly in relation to the uptake of pentavalent vaccine doses (PCV: Penta, dose 1, dose 2, dose 3)? 
+
+QUESTION 2: Considering the apparent rapid increase or shift in a very short segment presented by the solid green line in sea level studies, what implications might this hold for healthcare facilities in coastal areas, specifically focusing on the need for increased rotavirus vaccination (Rota: Penta, dose 1, dose 2) during times of potential flooding or environmental upheaval?
+
+QUESTION 3: Can a predictive model be developed to estimate changes in public health needs, based on the trends shown by the solid blue line in sea level rise studies, in order to align with the seasonal administration patterns (as shown by month) of the pentavalent vaccine, particularly focusing on optimizing times for administering dose 3 of PCV in coastal regions?
+
+QUESTION 4: How does the increased variability in the dashed red line of sea level projections potentially impact the planning and distribution of healthcare resources, specifically the dose timing and rate delivery of PCV and rotavirus vaccines, in regions projected to face significant changes in sea levels?
+
+QUESTION 5: Analyzing the variations among different data series in sea level rise predictions (solid and dashed lines), how can healthcare policy-makers in highly affected coastal areas adjust vaccine delivery strategies (PCV and Rotavirus to pentavalent vaccine ratios) throughout the year to mitigate the impacts of environmental changes on disease outbreak patterns?

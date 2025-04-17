@@ -1,0 +1,9 @@
+QUESTION 1: How might the correlation between capacity factor improvements over the years and the changes in deaths due to non-communicable diseases in early childhood (under 5 age category) suggest shifts in environmental policies or advances in healthcare impacting both energy efficiency and public health?
+
+QUESTION 2: Considering the increase in renewable energy projects as shown in the increase in Megawatts over certain years, can we infer a possible influence on the healthcare outcomes, particularly in regions with high percentages of deaths due to communicable, maternal, neonatal, and nutritional diseases in children aged 1 to 4?
+
+QUESTION 3: What might be the implications of the interplay between the number of energy projects implemented yearly and the distribution of disease-caused mortality rates in children under 5? Specifically, how could expanded renewable energy access influence mortality rates from different disease categories in these age groups?
+
+QUESTION 4: Analyzing the age categories with the highest percentage of deaths from injuries alongside trends in energy production scale (Megawatts), how could advancements or declines in energy infrastructure safety protocols be influencing these specific child mortality rates?
+
+QUESTION 5: If a reduction in the capacity factor percentage correlates with years of high mortality rates due to non-communicable diseases in the 'Post-neonatal' age category, what could this imply about the role of energy stability and availability in influencing healthcare services and outcomes in early childhood?

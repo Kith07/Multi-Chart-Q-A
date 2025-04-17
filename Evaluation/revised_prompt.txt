@@ -1,0 +1,15 @@
+Thanks a lot. Could you please review your question and refine it? 
+
+Please make sure that the new question better incorporate relevant variables from both sets of attributes and explanations and produces a sophisticated inference-based question.
+
+Again, please keep the answer short and concise while keeping the question meaningful and valuable. And simply respond with the new revised question and no additional formatting as follows - "QUESTION:"
+
+Thank you very much!
+
+Here are the sets of attributes:
+{ATTRIBUTES1}
+
+{ATTRIBUTES2}
+
+Here's the Question:
+{QUESTION}

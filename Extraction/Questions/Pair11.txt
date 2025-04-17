@@ -1,0 +1,9 @@
+QUESTION 1: What correlation can be analyzed between the mortality rates as represented by the Deaths per 100,000 over the years and the associated Response Index in different energy policy scenarios (Group I, II, III, V, VI)? How does the prioritization of energy efficiency or carbon efficiency in these scenarios impact health outcomes over time?
+
+QUESTION 2: Given the fluctuation of Deaths per 100,000 over specified years, could an examination of higher Response Indices indicative of increased energy efficiency in Groups with the label I and II influence healthcare interventions to reduce mortality rates within those same timelines?
+
+QUESTION 3: Can we infer a relationship between the periods of high mortality rates from Year 2000 to 2013 and the increased focus on carbon efficiency as opposed to energy efficiency, reflecting a possible negligence of public health impacts in Group Labels V and VI's energy policies?
+
+QUESTION 4: In examining the stalled deaths per 100,000 rate from 2005 to 2010 alongside a sudden climb in the Response Index across all Groups (I to VI) focusing on energy efficiency, what policy measures in the energy sector during these years could be influencing these health outcomes? Might there be direct health benefits attributable to specific shifts in the importance placed on energy efficiency versus carbon efficiency during these periods?
+
+QUESTION 5: Analyzing the long-term trends, is there a statistically significant relationship between low deaths per 100,000 rates and high Response Index readings in scenarios where energy efficiency is prioritized (especially in Group Labels I and II) over carbon efficiency? How could these findings inform future healthcare policies or energy sector adjustments aiming at improving population health?

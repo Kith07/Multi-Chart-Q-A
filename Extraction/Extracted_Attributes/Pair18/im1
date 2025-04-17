@@ -1,0 +1,16 @@
+ATTRIBUTES:
+- Time (Year) - Independent Variable
+- Global CO2 Emissions (Gt CO2) - Dependent Variable
+- Scenario type (e.g., Baseline, SRES A2, A1-FI, B2, etc.) - Independent Variable
+- Emissions Reduction Strategies (e.g., Demand Reduction, Fuel Switching, Scrubbing) - Independent Variable
+
+EXPLANATION:
+- Time (Year): This attribute represents the temporal aspect of the data shown, extending from the year 2000 to 2100 across all charts. It is used as a basis for showing the progression and projections of CO2 emissions and the impact of various scenarios and strategies over time.
+
+- Global CO2 Emissions (Gt CO2): This is the key dependent variable measured as gigatons of CO2. The charts depict how CO2 emissions are projected to change over time under different scenarios and with the implementation of various emissions reduction strategies.
+
+- Scenario type: Different scenario types are depicted (e.g., Hypothetical A2 baseline with frozen 1990 technology, SRES A2 scenario, A1-FI, A1-FI 550, B2, B2 550). These represent various potential futures based on socio-economic, environmental policies, and technological development assumptions. Each scenario impacts the projection and strategies for reducing CO2 emissions.
+
+- Emissions Reduction Strategies: Certain layers or bands such as Demand Reduction, Fuel Switching, and Scrubbing are highlighted to show specific strategies for reducing emissions. Each strategy encodes a method to achieve lower future CO2 levels by altering energy demand, switching energy sources, or removing CO2 directly from industrial sources and the atmosphere.
+
+These attributes are crucial for understanding the potential impacts of different policy choices and technological advancements on future CO2 emissions levels.

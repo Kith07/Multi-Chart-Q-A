@@ -1,0 +1,9 @@
+QUESTION 1: How might the increase in mass of sulphate aerosols influence cloud droplet number concentration in oceanic environments during El Niño years as indicated by positive NINO 3 anomalies?
+
+QUESTION 2: Considering the model type B+L for predicting cloud formation, can we correlate higher wind speeds (w=1m/s) with less dispersion of sulphate aerosols, and how does this contrast in periods of El Niño as reflected by the reconstruction by Mann et al., 2000a?
+
+QUESTION 3: How do changes in cloud droplet number concentration over land environments with a high mass of sulphate aerosols compare to temperature anomalies in the NINO 3 region over the past century, as portrayed by the Instrumental data adapted from Rayner et al., 2000?
+
+QUESTION 4: Can a significant relationship be established between periods with high SOI values (as inversely represented by SOI reconstruction by Stahle et al., 1998) and relatively low masses of sulphate aerosols and their effect on cloud droplet number concentration in different wind speed scenarios?
+
+QUESTION 5: Assessing the different model predictions (e.g., PROG, Jones) for cloud droplet number concentration in varying environmental contexts (land/ocean), how do these predictions hold up during significant El Niño and La Niña events, as indicated by the NINO 3 anomaly and corresponding reconstructions?

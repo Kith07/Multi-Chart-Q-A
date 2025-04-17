@@ -1,0 +1,16 @@
+ATTRIBUTES:
+1. Year (Independent Variable)
+2. Cumulative Climatic Mass Balance (kg/m²) (Dependent Variable)
+3. Cumulative Mass Loss (Gt) (Dependent Variable)
+4. Geographic Locations (Pan-Arctic, Alaska, Northern Scandinavia, Arctic Canada, Iceland, Svalbard) (Categorical Variable)
+
+EXPLANATION:
+1. **Year**: This attribute represents the time dimension across which the data is observed, from the early 1960s up to around 2010. It is the independent variable as it is not influenced by other variables in the chart.
+
+2. **Cumulative Climatic Mass Balance (kg/m²)**: Depicted on the left vertical axis, this variable measures the cumulative balance of climatic mass per square meter over the years for different Arctic regions. It indicates how much mass (in kg/m²) has been gained or lost in glacier ice and snow cover due to climatic conditions.
+
+3. **Cumulative Mass Loss (Gt)**: Shown on the right vertical axis, this variable represents the total mass loss in gigatonnes (Gt). This further underscores the scale of ice mass lost over the years, offering a macroscopic view in terms of total volume.
+
+4. **Geographic Locations**: These are categorical variables represented by lines of different colors in the graph (Pan-Arctic in black, Alaska in green, Northern Scandinavia in red, Arctic Canada in blue, Iceland in orange, Svalbard in turquoise). Each location has distinct climatic characteristics, and the graph shows the ice mass balance for each area, allowing comparisons across regions. "Alaska" has two representations - solid line for WGMS data and dashed line for GRACE data, indicating two different methodologies or data sources used for tracking changes in this region.
+
+This chart is a valuable tool for analyzing geographical and temporal trends in ice mass balance in the Arctic, helping understand the impact of climate change on these critical areas.

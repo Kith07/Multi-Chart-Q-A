@@ -1,0 +1,9 @@
+QUESTION 1: How does the range of global temperature increases predicted by the AOGCMs and MAGICC models under high-emission scenarios (like A1FI) correlate with the predicted increase in radiative forcing levels above 3.7 W/m^2 and corresponding CO2 equivalents emitted from biomass and agricultural sources as charted through 2100?
+
+QUESTION 2: Given the scenario categories B1 and A2, can the lower temperature increases associated with B1 (predicting more sustainable development practices) be linked to lower Gt CO2-eq emissions from deforestation activities and agricultural CH4 and N2O emissions in comparison to A2 as depicted through 2050?
+
+QUESTION 3: How do variations in radiative forcing levels, specifically at 4.5 W/m^2 as projected in the year range 2075 to 2100, influence the predicted global temperature increases under the BERN2.5CC standard version and other models for high economic growth scenarios like A1FI?
+
+QUESTION 4: Can differing global temperature increases under the A1T versus A1B scenarios be effectively linked to variations in Gt CO2-eq from agricultural N2O emissions and forest-related emissions, taking into account different model outcomes (such as Harris 2006 vs. Stott 2002/2006) based on socio-economic pathways?
+
+QUESTION 5: Using a combined inference from both datasets, how might one estimate the impact of mitigative actions in agricultural CH4 and N2O management on the needed radiative forcing reductions to maintain a global temperature increase within 2°C as depicted in more optimistic scenarios (e.g., B1) across different climate models?
